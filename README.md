@@ -1,2 +1,2 @@
-# EMR_Studio
-EMR_Studio_Stock_Price_Demo
+# EMR Studio Stock Price Demo
+
