@@ -1,6 +1,6 @@
 # EMR Studio Stock Price Demo
 
-<img width="85" alt="map-user" src="https://img.shields.io/badge/views-0000-green"> <img width="125" alt="map-user" src="https://img.shields.io/badge/unique visits-0000-green">
+<img width="85" alt="map-user" src="https://img.shields.io/badge/views-024-green"> <img width="125" alt="map-user" src="https://img.shields.io/badge/unique visits-0000-green">
 
 EMR Studio note book demonstrating interactive stock price analysis - [Stock_Price_Demo.ipynb](https://github.com/ev2900/EMR_Studio_Stock_Price_Demo/blob/main/Stock_Price_Demo.ipynb)
 
